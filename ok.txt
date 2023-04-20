@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 abc
 abc
 abc
 abc
-ac
-abcd
+abc
+abc
+abc
